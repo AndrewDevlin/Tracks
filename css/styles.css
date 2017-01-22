@@ -1,0 +1,41 @@
+#hideruby {
+  display: none;
+}
+
+#hidephp {
+  display: none;
+}
+
+#hidejava {
+  display: none;
+}
+
+#hidec {
+  display: none;
+}
+
+#hidejavascript {
+  display: none;
+}
+
+#hidecss {
+  display: none;
+}
+
+#hidedesign {
+  display: none;
+}
+
+.first {
+  font-style: italic;
+  color: plum;
+  font-weight: bold;
+}
+
+p {
+  text-indent: 1em;
+}
+
+.important {
+  background-color: powderblue;
+}
