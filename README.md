@@ -6,7 +6,7 @@
 
 ##**Setup**
 ####Clone this repository and then open 'index.html' in the browser, or
-####[Click here to see the site.](https://AndrewDevlin.github.io/Track)
+####[Click here to see the site.](https://AndrewDevlin.github.io/Tracks)
 
 ##**Technologies Used**
 ####Atom, html, css, bootstrap, jquery
